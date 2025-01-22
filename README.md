@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a **B.Tech Computer Science and Engineering (C
 
 - **Bachelor of Technology (B.Tech) in Computer Science and Engineering**
   - [INVERTIS UNIVERSITY]
-  - [Year of Study: e.g., 2021 - Present]
+  - [Year of Study: e.g., 2021 - Present 2025 - passout]
 
 ## 🌱 Currently Learning
 - Advanced **React.js** and **Next.js**
