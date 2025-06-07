@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a **B.Tech Computer Science and Engineering (C
 - **C/C++**
 
 ### Web Development:
-- **Frontend**: HTML, CSS, JavaScript, React.js, Bootstrap
-- **Backend**: Node.js, Express.js, Django
+- **Frontend**: HTML, CSS, JavaScript, React.js, 
+- **Backend**: Node.js, Express.js,
 - **Databases**: MySQL, MongoDB
 - **Version Control**: Git, GitHub
 
