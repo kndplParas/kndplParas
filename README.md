@@ -17,9 +17,8 @@ Welcome to my GitHub profile! I'm a **B.Tech Computer Science and Engineering (C
 - **Version Control**: Git, GitHub
 
 ### Tools & Platforms:
-- **IDE/Editors**: VS Code, PyCharm, IntelliJ IDEA
+- **IDE/Editors**: VS Code, PyCharm
 - **Deployment**: Heroku, Netlify, Vercel
-- **Others**: Docker, RESTful APIs, Postman
 
 ## 📚 Education
 
