@@ -34,8 +34,6 @@ Welcome to my GitHub profile! I'm a **B.Tech Computer Science and Engineering (C
 
 ## 💬 Let's Connect!
 
-- **LinkedIn**: [www.linkedin.com/in/paras-kandpal-3a9111235](#)
-- **Email**: [paraskandpal112931@gmail.com](mailto:paraskandpal112931@gmail.com)
 
 Feel free to explore my repositories, contribute to projects, or connect with me for collaboration opportunities! I'm always open to new challenges and ideas.
 
